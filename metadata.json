@@ -1,0 +1,6 @@
+{
+  "name": "HomeBite - Local Home-Cooked Meal Delivery",
+  "description": "Order authentic, small-batch home-cooked meals prepared by verified neighborhood cooks and delivered fresh to your table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
